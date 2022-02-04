@@ -1,5 +1,4 @@
 # YML-AWD-FRAME-FOR-BUGKU
-使用过程稍复杂，Star超过100写详细使用教程
 
 ## 框架介绍
 
